@@ -80,3 +80,6 @@ function reset() {
     userseq = [];
     level = 0;
 }
+
+document.body.style.backgroundColor = "#E9F1F7";
+
